@@ -1,1 +1,2 @@
 echaparro -linea1
+echaparro -linea2
